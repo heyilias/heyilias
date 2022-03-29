@@ -40,5 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyiliass&" alt="heyiliass" /></p>
 <p>
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=heyilias&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyilias&theme=radical)
 </p>
