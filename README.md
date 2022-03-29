@@ -4,7 +4,6 @@
 <p align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyilias&theme=radical&show_icons=true) </p>
 
 
-<p align="left"> <a href="https://github.com/heyilias"><img src="https://github-profile-trophy.vercel.app/?username=heyilias" alt="heyilias" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/heyilias" target="blank"><img src="https://img.shields.io/twitter/follow/heyilias?logo=twitter&style=for-the-badge" alt="heyilias" /></a> </p>
 
