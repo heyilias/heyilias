@@ -28,7 +28,7 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyilias&theme=radical&show_icons=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyilias&theme=radical&show_icons=true)-->
 
 ## 📊 My Github Stats
 
