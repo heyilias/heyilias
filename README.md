@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ilias</h1>
-<h3 align="center">A passionate Software Engineer from Morocco</h3>
+<h3 align="center">A passionate Software Developer from Morocco</h3>
 
 
 <p align="left"> <a href="https://twitter.com/heyilias" target="blank"><img src="https://img.shields.io/twitter/follow/hey_ilias?logo=twitter&style=for-the-badge" alt="heyilias" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, MetaVerse**
+- 🌱 I’m currently learning **Blockchain Technologie, MetaVerse, NFT Projects**
 
 - 👨‍💻 All of my projects are available at [heyilias.com](heyilias.com) -still working on it
 
