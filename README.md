@@ -54,11 +54,7 @@ Mission: Build creative, mind-blowing experiences
   <img src="https://github-profile-trophy.vercel.app/?username=heyilias&theme=monokai&column=6&margin-w=5&no-bg=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyilias&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyilias&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
