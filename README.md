@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Ilias;Full-Stack+Dev+From+China;Web3+%7C+AI+%7C+Creative+Builder&font=Fira+Code&center=true&width=800&height=50&duration=4000&pause=1000"/>
-</div>
-
-<h3 align="center">Turning Ideas into Code & Code into Experiences 🌐</h3>
+<h1 align="center">👋 Hi, I'm Ilias — Blending AI Research & Software Engineering</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=I+teach+machines+to+see+and+reason.;I+build+tools+that+turn+data+into+insight.;Always+curious.+Always+creating." />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
 </p>
+
+
 
 <p align="center">
   <a href="https://twitter.com/heyilias"><img src="https://img.shields.io/twitter/follow/hey_ilias?logo=twitter&style=for-the-badge"/></a>
@@ -22,8 +23,8 @@
 Name: Ilias
 Current Location: China 🇨🇳
 Origin: Morocco 🇲🇦
-Focus: Frontend (Next.js, React, TypeScript)
-Past Work: Unity3D, ASP.NET, Java Spring
+Focus: Frontend (Next.js, React, TypeScript), Backend(Java, Spring)
+Past Work: C#, Unity3D, ASP.NET
 Current Obsession: AI Agents & ML with Python
 Mission: Build creative, mind-blowing experiences
 ```
@@ -33,8 +34,13 @@ Mission: Build creative, mind-blowing experiences
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,java,spring,unity,dotnet,tailwind,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nextjs,react,nodejs,spring,tailwind,git,github" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,flask,fastapi,mysql,mongodb" />
+</p>
+
 
 ---
 
