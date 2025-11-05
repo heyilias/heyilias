@@ -64,7 +64,7 @@ Mission: Build creative, mind-blowing experiences
 
 ---
 
-<h2 align="center">🌈 Let's Collaborate, Create & Conquer 🚀</h2>
+<h2 align="center"> Let's Collaborate, Create & Conquer 🚀</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&text=Stay%20Awesome!&height=100&fontAlign=40&descAlign=60" />
