@@ -57,8 +57,13 @@ Mission: Build creative, mind-blowing experiences
 ### 🌀 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heyilias&theme=monokai&column=6&margin-w=5&no-bg=true" />
+  <img alt="ilias's Profile Trophies" src="https://github-profile-trophy.vercel.app?username=heyilias&theme=dracula&no-bg=true&no-frame=true&column=5&row=1&margin-w=8&margin-h=8" height="140px"/>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyilias/heyilias/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyilias/heyilias/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heyilias/heyilias/main/dist/github-contribution-grid-snake.svg">
+</picture>
 
 
 
@@ -79,3 +84,4 @@ Mission: Build creative, mind-blowing experiences
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
 </p>
+
