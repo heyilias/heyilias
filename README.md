@@ -1,11 +1,12 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
 <h1 align="center">👋 Hi, I'm Ilias — Blending AI Research & Software Engineering</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=I+teach+machines+to+see+and+reason.;I+build+tools+that+turn+data+into+insight.;Always+curious.+Always+creating." />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
-</p>
+
 
 
 
