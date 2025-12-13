@@ -47,7 +47,7 @@ Mission: Build creative, mind-blowing experiences
 
 ### 🧠 Knowledge Base
 
-- 💡 **Frontend**: Next.js / React / TypeScript / Tailwind
+- 💡 **Frontend**: Next.js / React / TypeScript / Tailwind / HTML / CSS / JS
 - 🧩 **Backend**: Spring / ASP.NET / Node.js
 - 🎮 **Game Dev**: Unity3D / C# (2018–2021)
 - 🧬 **AI & ML**: Python / Agents / Transformers / LangChain
